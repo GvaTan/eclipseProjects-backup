@@ -1,0 +1,468 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=0.75,minimum-scale=0.75,maximum-scale=0.75">
+<meta name="renderer" content="webkit">
+<meta name="applicable-device" content="pc,mobile">
+<title>a-������</title>
+<script language="javascript"><!--
+	window.onerror=function(){return true;}
+// --></script>
+<script src="/zaicscs/jquery.superslide.js" type="text/javascript"></script>
+<link href="/zaicscs/style.css" rel="stylesheet">
+<script src="/zaicscs/jquery-1.4.4.min.js"></script>
+<script src="/zaicscs/common.js"></script>
+<script src="/zaicscs/function.js"></script>
+<script src="/zaicscs/jquery.lazyload.js"></script>
+<!--[if lt IE 9]>
+<script src="/zaicscs/html5shiv.min.js"></script>
+<script src="/zaicscs/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<!--/ͷ��-->
+<metaname="robots"content="noarchive">
+<div class="header-all">
+  <div class="top clearfix">
+    <ul class="logo"><a href="/"><img src="/zaicscs/logo.png" title="������"></a></ul>
+    <ul class="top-nav">
+      <li><a class="now" href="/"  class="on">��ҳ</a></li>
+      <!--����-->
+
+
+      <li class="" _t_nav="topnav-1"><a href="/tv/" >���Ӿ�<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-2"><a href="/movie/" >��Ӱ<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+
+ <li class="" _t_nav="topnav-3"><a href="/dh/" >����<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-4"><a href="/zy/" >����<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      <li class="" _t_nav="topnav-5"><a href="/search.asp?searchType=6&searchword=quanbulunli" >����Ƭ<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+
+</ul>
+    </ul>
+	    <ul class="search so">
+<form action="/search.asp" name="formsearch" method="post">
+        <input type="text" id="searchword" name="searchword" class="input" onblur="if(this.value==''){ this.value='������ӰƬ����Ա��';this.style.color='#cfcdcd';}" onfocus="if(this.value=='������ӰƬ����Ա��'){this.value='';this.style.color='';}" value="������ӰƬ����Ա��" />
+		 
+        <input type="submit" name="submit" class="imgbt" value="" />
+      </form>
+    </ul>
+    <ul class="nav-qt aa">
+     <!-- <li class="bb">
+	
+      </li>-->
+
+ 
+   <li class="bb"><strong class="ma"><a href="/live/" >����ֱ��</a></strong>
+      <li class="bb"><strong class="ma"><a href="/news.html" >���ո��£�199</a></strong>
+<!--<li class="bb member"><strong class="ma"><i class="mbbg"></i></strong><div class="cc mbp"></div> </li>--></ul>
+<ul class="sj-search"><li class="sbtn2"><b style="color: #2F4151;background-color: #F6F6F9;padding: 1px 4px;border-radius: 5px;">����</b></li></ul>
+<ul class="sj-nav"><li class="sbtn1"><b style="color: #2F4151;background-color: #F6F6F9;padding: 1px 4px;border-radius: 5px;">����</b></li></ul>
+</div>
+  <!--������Ŀ¼-->
+<div class="nav-down clearfix">
+<div id="topnav-1" class="nav-down-1" style="display:none;" _t_nav="topnav-1">
+<div class="nav-down-2 clearfix"><ul>
+
+   
+      <li><a href="/tg/">̩���</a></li>
+         
+      <li><a href="/tvb/">��۾�</a></li>
+         
+      <li><a href="/hg/">�����</a></li>
+         
+      <li><a href="/om/">ŷ����</a></li>
+         
+      <li><a href="/tw/">̨���</a></li>
+         
+      <li><a href="/gc/">����</a></li>
+         
+      <li><a href="/cy/">��Խ��</a></li>
+         
+      <li><a href="/sh/">��װ��</a></li>
+         
+      <li><a href="/xinjiapo/">�¼���</a></li>
+         
+      <li><a href="/yingju/">Ӣ���</a></li>
+         
+      <li><a href="/riben/">�ձ���</a></li>
+      
+
+</ul></div></div>
+<div id="topnav-2" class="nav-down-1" style="display:none;" _t_nav="topnav-2">
+<div class="nav-down-2 clearfix">
+<ul>
+
+      <li><a href="/dz/">����Ƭ</a></li>
+       
+      <li><a href="/xj/">ϲ��Ƭ</a></li>
+       
+      <li><a href="/aq/">����Ƭ</a></li>
+       
+      <li><a href="/jq/">����Ƭ</a></li>
+       
+      <li><a href="/kb/">�ƻ�Ƭ</a></li>
+       
+      <li><a href="/kh/">�ֲ�Ƭ</a></li>
+       
+      <li><a href="/zz/">ս��Ƭ</a></li>
+       
+      <li><a href="/hd720/">720P����</a></li>
+       
+      <li><a href="/jilu/">��¼Ƭ</a></li>
+       
+      <li><a href="/weidianying/">΢��Ӱ</a></li>
+           
+</ul></div></div><div id="topnav-3" class="nav-down-1" style="display:none;" _t_nav="topnav-3">
+<div class="nav-down-2 clearfix"><ul>
+     
+      <li><a href="/dh/">����Ƭ</a></li>
+           
+      <li><a href="/dongman/">����</a></li>
+           
+</ul></div></div>
+<div id="topnav-4" class="nav-down-1" style="display:none;" _t_nav="topnav-4">
+<div class="nav-down-2 clearfix"><ul>
+    
+      <li><a href="/zy/">���ս�Ŀ</a></li>
+     
+</ul></div></div>
+
+<div id="topnav-5" class="nav-down-1" style="display:none;" _t_nav="topnav-5">
+<div class="nav-down-2 clearfix"><ul>
+	  <li>
+		<a href="/search.asp?searchType=6&searchword=hanguolunli">��������Ƭ</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=oumeilunli">ŷ��R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=ribenlunli">�ձ�����Ƭ</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=dalulunli">��½R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=taiwanlunli">̨��R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=xiangganglunli">���R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=donghuasanji">����R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=qitalunli">��������</a>
+	</li>
+
+</ul></div></div>
+
+ <div id="topnav-6" class="nav-down-1" style="display:none;" _t_nav="topnav-6">
+<div class="nav-down-2 clearfix"><ul>
+     
+      <li><a href="/dz/">����Ƭ</a></li>
+            
+      <li><a href="/xj/">ϲ��Ƭ</a></li>
+            
+      <li><a href="/aq/">����Ƭ</a></li>
+            
+      <li><a href="/jq/">����Ƭ</a></li>
+            
+      <li><a href="/kb/">�ƻ�Ƭ</a></li>
+            
+      <li><a href="/kh/">�ֲ�Ƭ</a></li>
+            
+      <li><a href="/zz/">ս��Ƭ</a></li>
+            
+      <li><a href="/hd720/">720P����</a></li>
+            
+      <li><a href="/tg/">̩���</a></li>
+            
+      <li><a href="/tvb/">��۾�</a></li>
+            
+      <li><a href="/hg/">�����</a></li>
+            
+      <li><a href="/om/">ŷ����</a></li>
+            
+      <li><a href="/tw/">̨���</a></li>
+            
+      <li><a href="/gc/">����</a></li>
+            
+      <li><a href="/zy/">���ս�Ŀ</a></li>
+            
+      <li><a href="/dh/">����Ƭ</a></li>
+            
+      <li><a href="/cy/">��Խ��</a></li>
+            
+      <li><a href="/sh/">��װ��</a></li>
+            
+      <li><a href="/jilu/">��¼Ƭ</a></li>
+            
+      <li><a href="/xinjiapo/">�¼���</a></li>
+            
+      <li><a href="/yingju/">Ӣ���</a></li>
+            
+      <li><a href="/riben/">�ձ���</a></li>
+            
+      <li><a href="/weidianying/">΢��Ӱ</a></li>
+            
+      <li><a href="/dongman/">����</a></li>
+        
+        </ul>
+      </div>
+    </div>
+
+<!--�ֻ�浼��-->
+  <div id="sj-nav-1" class="nav-down-1 sy1 sj-noover" style="display:none;" _s_nav="sj-nav-1">
+    <div class="nav-down-2 sj-nav-down-2 clearfix">
+    <ul> 
+      <li><a href="/" class="on">��ҳ</a></li>
+      
+    
+	    
+      <li><a href="/dz/" class="on">����Ƭ</a></li>
+         
+      <li><a href="/xj/" class="on">ϲ��Ƭ</a></li>
+         
+      <li><a href="/aq/" class="on">����Ƭ</a></li>
+         
+      <li><a href="/jq/" class="on">����Ƭ</a></li>
+         
+      <li><a href="/kb/" class="on">�ƻ�Ƭ</a></li>
+         
+      <li><a href="/kh/" class="on">�ֲ�Ƭ</a></li>
+         
+      <li><a href="/zz/" class="on">ս��Ƭ</a></li>
+         
+      <li><a href="/hd720/" class="on">720P����</a></li>
+         
+      <li><a href="/tg/" class="on">̩���</a></li>
+         
+      <li><a href="/tvb/" class="on">��۾�</a></li>
+         
+      <li><a href="/hg/" class="on">�����</a></li>
+         
+      <li><a href="/om/" class="on">ŷ����</a></li>
+         
+      <li><a href="/tw/" class="on">̨���</a></li>
+         
+      <li><a href="/gc/" class="on">����</a></li>
+         
+      <li><a href="/zy/" class="on">���ս�Ŀ</a></li>
+         
+      <li><a href="/dh/" class="on">����Ƭ</a></li>
+         
+      <li><a href="/cy/" class="on">��Խ��</a></li>
+         
+      <li><a href="/sh/" class="on">��װ��</a></li>
+         
+      <li><a href="/jilu/" class="on">��¼Ƭ</a></li>
+         
+      <li><a href="/xinjiapo/" class="on">�¼���</a></li>
+         
+      <li><a href="/yingju/" class="on">Ӣ���</a></li>
+         
+      <li><a href="/riben/" class="on">�ձ���</a></li>
+         
+      <li><a href="/weidianying/" class="on">΢��Ӱ</a></li>
+         
+      <li><a href="/dongman/" class="on">����</a></li>
+        
+   
+    </ul>
+    </div>
+  </div>
+  <div id="sj-nav-search" class="nav-down-1 sy2 sj-noover" style="display:none;" _t_nav1="sj-nav-search">
+    <div class="nav-down-2 sj-nav-down-search clearfix">
+<form action="/search.asp" method="post">
+        <input type="text" id="searchword" name="searchword" class="input" onblur="if(this.value==''){ this.value='����ؼ��';this.style.color='#cfcdcd';}" onfocus="if(this.value=='����ؼ��'){this.value='';this.style.color='';}" value="����ؼ��" />
+        <input type="submit" name="submit" class="imgbt" value="�� ��" />
+      </form>
+</form></div></div></div></div>
+<div class="nav-down-2  nav-ll clearfix"><div><a href="https://player.quankan.tv/aoriys.php?s=zaizai8"><img height="80" width="100%" src="https://wx4.sinaimg.cn/mw690/006p80vTgy1frrfcwo2o6g30hs05kk0d.gif"></a>
+</div><ul>
+	  <li>
+		<a href="/search.asp?searchType=6&searchword=hanguolunli">��������Ƭ</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=oumeilunli">ŷ��R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=ribenlunli">�ձ�����Ƭ</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=dalulunli">��½R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=taiwanlunli">̨��R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=xiangganglunli">���R��</a>
+	</li>
+	
+	<li>
+		<a href="/search.asp?searchType=6&searchword=donghuasanji">����R��</a>
+	</li>
+
+</ul></div>
+<div class="topone clearfix"></div>
+</div>
+</div>
+<div class="main">
+<script type="text/javascript">
+//ƽ̨���豸�Ͳ���ϵͳ
+ var system ={
+ win : false,
+ mac : false,
+ xll : false
+ };
+ //���ƽ̨
+ var p = navigator.platform;
+ system.win = p.indexOf("Win") == 0;
+ system.mac = p.indexOf("Mac") == 0;
+ system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+ //��ת���
+ if(system.win||system.mac||system.xll){
+ document.writeln('<center><script type="text/javascript" src="/zaicscs/tvb/pctongdao.js??"><\/script></center>');
+ }else{
+ document.writeln('<center><script type="text/javascript" src="/zaicscs/tvb/sjtongdao.js?"><\/script></center>');
+ }
+</script></div>
+
+  </div>
+</div>
+
+
+<div class="main">
+	<h1 class="title">������Ƶ�� a �� 29743 ��</h1>
+
+	<div class="index-area clearfix">
+	<ul>
+   
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214370/" title="Űɱ��"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/20192212033290625.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="Űɱ��"><span class="video-bg"></span><span class="lzbz"><p class="name">Űɱ��</p><p class="actor">Carl.Amery  Claudia.Fielers</p><p class="actor">����Ƭ</p><p class="actor">1978/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214369/" title="Ů�˽��"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922120203061222.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="Ů�˽��"><span class="video-bg"></span><span class="lzbz"><p class="name">Ů�˽��</p><p class="actor">���١���� Jackie Curtis Holly Woodlawn</p><p class="actor">����Ƭ</p><p class="actor">1971/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214368/" title="��������"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922120162248697.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="��������"><span class="video-bg"></span><span class="lzbz"><p class="name">��������</p><p class="actor">Lisa Rogers</p><p class="actor">����Ƭ</p><p class="actor">2008/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/172466/" title="�ҵİ칫������"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2017-3/172466.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�ҵİ칫������"><span class="video-bg"></span><span class="lzbz"><p class="name">�ҵİ칫������</p><p class="actor">Park Tae-san  Han Yu-mi</p><p class="actor">����Ƭ</p><p class="actor">2015/����</p></span><p class="other"><i>��Ƭ</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/jq/179897/" title="�ҵİ칫������ ����"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2017-7/201772110161376407.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�ҵİ칫������ ����"><span class="video-bg"></span><span class="lzbz"><p class="name">�ҵİ칫������ ����</p><p class="actor">Park Tae-san  Han Yu-mi</p><p class="actor">����Ƭ</p><p class="actor">0/</p></span><p class="other"><i>��Ƭ</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/aq/179898/" title="�ҵİ칫������ �����"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2017-7/201772110161376407.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�ҵİ칫������ �����"><span class="video-bg"></span><span class="lzbz"><p class="name">�ҵİ칫������ �����</p><p class="actor">Park Tae-san  Han Yu-mi</p><p class="actor">����Ƭ</p><p class="actor">0/</p></span><p class="other"><i>��Ƭ</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/aq/191661/" title="�ҵİ칫������"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2017-7/201772110161376407.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�ҵİ칫������"><span class="video-bg"></span><span class="lzbz"><p class="name">�ҵİ칫������</p><p class="actor">Park Tae-san  Han Yu-mi</p><p class="actor">����Ƭ</p><p class="actor">0/</p></span><p class="other"><i>��Ƭ</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/jq/214319/" title="���ܵ���"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922021483386805.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="���ܵ���"><span class="video-bg"></span><span class="lzbz"><p class="name">���ܵ���</p><p class="actor">������ ���ӻ� ������</p><p class="actor">����Ƭ</p><p class="actor">2019/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/xj/214354/" title="����������(ӡ�ȵ�Ӱ)"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922116164433289.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="����������(ӡ�ȵ�Ӱ)"><span class="video-bg"></span><span class="lzbz"><p class="name">����������(ӡ�ȵ�Ӱ)</p><p class="actor">Salman Khan  Preity Zinta  Bhoomika Chawla</p><p class="actor">ϲ��Ƭ</p><p class="actor">2004/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/om/212188/" title="�鷳һ����"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-1/20191511212591279.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�鷳һ����"><span class="video-bg"></span><span class="lzbz"><p class="name">�鷳һ����</p><p class="actor">���š����ж� Zuri Adele �޽ܡ����� Sherry Cola</p><p class="actor">ŷ����</p><p class="actor">2019/ŷ��</p></span><p class="other"><i>��7��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214355/" title="���ϵ�����"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/20192211624766863.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="���ϵ�����"><span class="video-bg"></span><span class="lzbz"><p class="name">���ϵ�����</p><p class="actor">���ֻ�</p><p class="actor">����Ƭ</p><p class="actor">2019/�ձ�</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214353/" title="��˾�ʲ�CorporateAssets"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922116172483115.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="��˾�ʲ�CorporateAssets"><span class="video-bg"></span><span class="lzbz"><p class="name">��˾�ʲ�CorporateAssets</p><p class="actor"></p><p class="actor">����Ƭ</p><p class="actor">1985/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/wuyelunli/187638/" title="�����齫�հ�"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2016-10/154149.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�����齫�հ�"><span class="video-bg"></span><span class="lzbz"><p class="name">�����齫�հ�</p><p class="actor">Nina/����ľ��/����Ұͫ/�|β����/˪�¤��/���B�V��</p><p class="actor">��ҹ����</p><p class="actor">0/</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/jq/187637/" title="�����齫����ɱ"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2017-12/201712119172956502.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�����齫����ɱ"><span class="video-bg"></span><span class="lzbz"><p class="name">�����齫����ɱ</p><p class="actor">Nina   ����Ұͫ   �|β����   ���B�V��</p><p class="actor">����Ƭ</p><p class="actor">0/</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/154149/" title="�����齫������ɱ"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2016-10/154149.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�����齫������ɱ"><span class="video-bg"></span><span class="lzbz"><p class="name">�����齫������ɱ</p><p class="actor">Nina/����ľ��/����Ұͫ/�|β����/˪�¤��/���B�V��</p><p class="actor">����Ƭ</p><p class="actor">2012/�ձ�</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214352/" title="����֮��"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922115454642199.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="����֮��"><span class="video-bg"></span><span class="lzbz"><p class="name">����֮��</p><p class="actor">Yusuke Narita</p><p class="actor">����Ƭ</p><p class="actor">2018/�ձ�</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/dz/214210/" title="����ս"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201921822342659125.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="����ս"><span class="video-bg"></span><span class="lzbz"><p class="name">����ս</p><p class="actor">�����ϡ��Ŷ��� ���𡤿�����</p><p class="actor">����Ƭ</p><p class="actor">2016/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/202488/" title="����֮��1973"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2018-6/201861114405450204.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="����֮��1973"><span class="video-bg"></span><span class="lzbz"><p class="name">����֮��1973</p><p class="actor">�����˹��ɭ  Rosemarie Fendel  Olimpia</p><p class="actor">����Ƭ</p><p class="actor">1973/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/186179/" title="ҹҹ�д���Ů��"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2017-11/2017112120242688779.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="ҹҹ�д���Ů��"><span class="video-bg"></span><span class="lzbz"><p class="name">ҹҹ�д���Ů��</p><p class="actor">����򡤵���  �����Ǵﲨ  ɯ��������</p><p class="actor">����Ƭ</p><p class="actor">1991/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/186152/" title="Σ�յİ���"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/201922115291895723.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="Σ�յİ���"><span class="video-bg"></span><span class="lzbz"><p class="name">Σ�յİ���</p><p class="actor">Park Hee-su</p><p class="actor">����Ƭ</p><p class="actor">2019/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/riben/212901/" title="����GAGAGA"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-1/20191211124137953.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="����GAGAGA"><span class="video-bg"></span><span class="lzbz"><p class="name">����GAGAGA</p><p class="actor">С֥�绨 �ֿƼ��� ľ������ ɭ����ϣ</p><p class="actor">�ձ���</p><p class="actor">2019/�ձ�</p></span><p class="other"><i>��5��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214345/" title="SexMate"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/20192211514664748.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="SexMate"><span class="video-bg"></span><span class="lzbz"><p class="name">SexMate</p><p class="actor"></p><p class="actor">����Ƭ</p><p class="actor">2017/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/riben/211748/" title="������"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2018-12/2018122713145411199.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="������"><span class="video-bg"></span><span class="lzbz"><p class="name">������</p><p class="actor">�¹��� ���� Athena Lee Yen  ��ݸ�� �«���</p><p class="actor">�ձ���</p><p class="actor">2018/̨��</p></span><p class="other"><i>��36��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/wuyelunli/72200/" title="��ʧ��������"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2018-6/201861115143242613.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="��ʧ��������"><span class="video-bg"></span><span class="lzbz"><p class="name">��ʧ��������</p><p class="actor">������  ����Ӣ  ��־��  ���Ƕ�</p><p class="actor">��ҹ����</p><p class="actor">0/</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/41481/" title="��ʧ����"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2018-6/201861115113330839.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="��ʧ����"><span class="video-bg"></span><span class="lzbz"><p class="name">��ʧ����</p><p class="actor">������  ����Ӣ  ��־��  ���Ƕ�</p><p class="actor">����Ƭ</p><p class="actor">2000/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/200417/" title="�����ʷ"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2018-5/20185111091521116.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�����ʷ"><span class="video-bg"></span><span class="lzbz"><p class="name">�����ʷ</p><p class="actor">����ޱ����������  ����¡�����</p><p class="actor">����Ƭ</p><p class="actor">1969/ŷ��</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/wuyelunli/214329/" title="������3���¼�"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/20192211045233601.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="������3���¼�"><span class="video-bg"></span><span class="lzbz"><p class="name">������3���¼�</p><p class="actor">��ԭδ�� MikiSunohara</p><p class="actor">��ҹ����</p><p class="actor">0/</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/lunli/214160/" title="���ծ"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/20192181254377998.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="���ծ"><span class="video-bg"></span><span class="lzbz"><p class="name">���ծ</p><p class="actor">��ԭδ�� MikiSunohara</p><p class="actor">����Ƭ</p><p class="actor">2019/�ձ�</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/xj/214324/" title="ս��Ů��"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-2/2019221951032926.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="ս��Ů��"><span class="video-bg"></span><span class="lzbz"><p class="name">ս��Ů��</p><p class="actor">��������������޶��  J��hann Sigurearson</p><p class="actor">ϲ��Ƭ</p><p class="actor">2018/����</p></span><p class="other"><i>ȫ��</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="/tg/212483/" title="�ػ��ǳ�"><img class="lazy" data-original="https://pic.zaizai8.com/pic/uploadimg/2019-1/20191111371293225.jpg" src="https://pic.zaizai8.com/zaicscs/load.gif" alt="�ػ��ǳ�"><span class="video-bg"></span><span class="lzbz"><p class="name">�ػ��ǳ�</p><p class="actor">MintC maiwarit</p><p class="actor">̩���</p><p class="actor">2019/����</p></span><p class="other"><i>��5��</i></p></a>
+    </li>
+     
+  
+    </ul>
+	</div>
+<div class="page mb clearfix">
+<span>��29743����� ҳ��:1/992ҳ</span><em class='nolink'>��ҳ</em><em class='nolink'>��һҳ</em><em>1</em><a href='?page=2&searchword=a&searchtype=-1'>2</a><a href='?page=3&searchword=a&searchtype=-1'>3</a><a href='?page=4&searchword=a&searchtype=-1'>4</a><a href='?page=5&searchword=a&searchtype=-1'>5</a><a href='?page=6&searchword=a&searchtype=-1'>6</a><a href='?page=7&searchword=a&searchtype=-1'>7</a><a href='?page=8&searchword=a&searchtype=-1'>8</a><a href='?page=2&searchword=a&searchtype=-1'>��һҳ</a><a href='?page=992&searchword=a&searchtype=-1'>βҳ</a><span><input type='input' name='page' size='4'/><input type='button' value='��ת' onclick="goSearchPage(992,'page','?page=<page>&searchword=a&searchtype=-1')" class='btn' /></span>
+</div>   
+</div>
+<!--/�ײ�-->
+
+
+<div class="footer clearfix">
+ <a class="color" href="/baiduplayer/O.html" target="_blank"title="ʹ�ð���">ʹ�ð���</a>-<a class="color" href="/baiduplayer/F.html" target="_blank" title="ʹ�ð���">��������</a>-<a href="/gbook.asp" target="_blank" title="��������">��������</a>-<a href="/news.html" target="_blank" title="���¸���">���¸���</a>-<a href="/allmovie.html" target="_blank" title="��վ��ͼ">��վ��ͼ</a>-<a href="/rss.xml" target="_blank" title="RSS����">RSS����</a>
+       
+    
+          <p>����վ�ṩ�����µ��Ӿ�͵�Ӱ��Դ��ϵ�ռ��ڸ�����Ƶ��վ������վֻ�ṩwebҳ����񣬲����ṩӰƬ��Դ�洢��Ҳ������¼�ơ��ϴ�</p>
+          <p>����վ��¼�Ľ�Ŀ�����ַ��˹�˾��Ȩ���뵽��ҳ���԰����ԣ����ǻἰʱ����ͻظ���лл��<a href="/gbook.asp">�������</a></p>
+		  <p>Copyright &copy; 2007-2012<a class="color" href="https://www.zaizai8.com">������www.zaizai8.com</a></p>
+          <p>������ӭ�͸���˾�������ݼ�ģʽ�Ϻ��������⣬��վ�ݲ������κι�棬лл</p></div>
+
+ <div style="display:none"><script src="/zaicscs/tvb/tj.js?"></script></div>
+</body></html><!--FILE CACHE TIME:20190221203927-->
